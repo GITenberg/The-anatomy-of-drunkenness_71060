@@ -1,0 +1,31 @@
+_repo: The-anatomy-of-drunkenness_71060
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Macnish, Robert
+    birthdate: 1802
+    deathdate: 1837
+    gutenberg_agent_id: '56063'
+    url: http://www.gutenberg.org/2009/agents/56063
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Macnish
+description: ''
+gutenberg_issued: '2023-06-27'
+identifiers:
+  gutenberg: '71060'
+language: en
+pgterms:marc904: https://archive.org/details/b28744755/page/n9/mode/2up
+pgterms:marc905: 20200512035501macnish
+pgterms:marc906: '1836'
+pgterms:marc907: GB
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bW. R. M''Phun, $c1836.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alcoholism'
+- !lcc 'RC'
+- GITenberg
+title: The anatomy of drunkenness
+url: http://www.gutenberg.org/ebooks/71060
